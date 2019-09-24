@@ -1,5 +1,5 @@
 # SkillsLearningList
-很多技能都可以通过网络学习，列举记录各种实操性较强的教学文章。
+很多技能都可以通过网络学习，这里记录各种实操性较强的中文教程，不限教学范围。
 
 ## Sketch
 * [玩转sketch\-玩转sketch教程\-麦子学院](http://www.maiziedu.com/course/748/)   4小时
