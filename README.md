@@ -1,6 +1,10 @@
 # SkillsLearningList
 很多技能都可以通过网络学习，列举记录各种实操性较强的教学文章。
 
+## Sketch
+* [玩转sketch\-玩转sketch教程\-麦子学院](http://www.maiziedu.com/course/748/)
+> 美女老师 Riva 在麦子学院出品的 sketch 入门教程，超甜的声音，关键是课讲的真不错，如果只是入门足够了
+
 ## Git
 > 还没找教程
 
