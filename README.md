@@ -23,6 +23,9 @@
 * [Docker 入门教程 \- 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html) 1小时
 > 阮老师的入门教程一直很棒
 
+## 深度学习
+* [《动手学深度学习》：面向中文读者、能运行、可讨论](https://zh.d2l.ai/index.html)
+
 ## 音标
 * [我终于学会了音标，你也可以的！！！](https://mp.weixin.qq.com/s/U9ez29vqiKXQtoCKXEyKtQ) 2 小时
 > 这么多年一直没学会的东西，改天学习学习
