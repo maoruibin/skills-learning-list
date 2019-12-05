@@ -7,7 +7,7 @@
 **如果你也有看过、听过好的教学课程，欢迎通过 [issue](https://github.com/maoruibin/skills-learning-list/issue) 或者 pr 补充.**
 
 ## 购房/房产
-* [Update README\.md by gitee2018 · Pull Request \#153 · houshanren/hangzhou\_house\_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)
+* [houshanren/hangzhou\_house\_knowledge: 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。](https://github.com/houshanren/hangzhou_house_knowledge)
 > 一个作者整理自在杭州买饭的经历，内容非常详尽，**如果要买房，真的应该先学习。**
 
 ## 基金
