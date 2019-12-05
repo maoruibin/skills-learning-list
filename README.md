@@ -6,6 +6,14 @@
 
 **如果你也有看过、听过好的教学课程，欢迎通过 [issue](https://github.com/maoruibin/skills-learning-list/issue) 或者 pr 补充.**
 
+## 购房/房产
+* [Update README\.md by gitee2018 · Pull Request \#153 · houshanren/hangzhou\_house\_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)
+> 一个作者整理自在杭州买饭的经历，内容非常详尽，**如果要买房，真的应该先学习。**
+
+## 基金
+* [基金：从0开始学基金投资 \- 知乎](https://zhuanlan.zhihu.com/fundslearning) 6 小时
+> **系统学习**很重要，我的基金入门教程（这玩意还需要教程?? 是的~ ）
+
 ## Linux 学习
 > 还没找教程
 
@@ -34,6 +42,4 @@
 * [我终于学会了音标，你也可以的！！！](https://mp.weixin.qq.com/s/U9ez29vqiKXQtoCKXEyKtQ) 2 小时
 > 这么多年一直没学会的东西，改天学习学习
 
-## 基金
-* [基金：从0开始学基金投资 \- 知乎](https://zhuanlan.zhihu.com/fundslearning) 6 小时
-> **系统学习**很重要，我的基金入门教程（这玩意还需要教程?? 是的~ ）
+
