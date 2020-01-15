@@ -27,8 +27,9 @@
 ## Curl
 > 在 Linux 控制台发起网络请求，觉得很有用
 
-## Android 逆向反逆向
+## Android 安全、逆向
 * [安卓Android应用程序破解与反破解apktool反编译 代码混淆视频教程\-极客学院](https://www.jikexueyuan.com/course/84.html)
+* [JnuSimba/AndroidSecNotes: some learning notes about Android Security](https://github.com/JnuSimba/AndroidSecNotes)
 > 因为咕咚云图被别人加壳，所以准备学一下
 
 ## Docker 
