@@ -3,6 +3,7 @@
 > **系统的知识框架学习，是提高效率，节省学习成本很有效的方法。**
 
 很多技能都可以通过网络学习，这里记录各种实操性较强的中文教程，不限教学范围。
+- [Awesome\-Android\-Notebook: A complete plan for better android developers）](https://github.com/JsonChao/Awesome-Android-Notebook)
 
 **如果你也有看过、听过好的教学课程，欢迎通过 [issue](https://github.com/maoruibin/skills-learning-list/issue) 或者 pr 补充.**
 
